@@ -16,5 +16,5 @@ failed records are the records those have duplicate reference and endbalance mis
 done by CustomerStatementProcessor class.
 
 CSVParser and XMLParser classes parsing the CSV and XML file respectively and passes the string array to CustomerStatementProcessor class
-for failure record identification.
+for failed record identification.
 
